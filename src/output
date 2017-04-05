@@ -1,0 +1,39 @@
+Iris data set
+
+for k means with random
+Homogeneity: 0.751
+Completeness: 0.765
+V-measure: 0.758
+Adjusted Rand Index: 0.730
+
+printing for k++
+Homogeneity: 0.751
+Completeness: 0.765
+V-measure: 0.758
+Adjusted Rand Index: 0.730
+
+for k mediods
+Homogeneity: 0.774
+Completeness: 0.788
+V-measure: 0.781
+Adjusted Rand Index: 0.749
+
+Dataset 2
+
+for k medoids
+Homogeneity: 0.180
+Completeness: 0.339
+V-measure: 0.235
+Adjusted Rand Index: 0.201
+
+for k means with random
+Homogeneity: 0.261
+Completeness: 0.320
+V-measure: 0.288
+Adjusted Rand Index: 0.236
+
+printing for k++
+Homogeneity: 0.260
+Completeness: 0.315
+V-measure: 0.285
+Adjusted Rand Index: 0.223

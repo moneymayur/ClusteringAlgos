@@ -1,0 +1,6 @@
+import argparse
+import csv
+import numpy
+import sys
+b = open("test.txt", "r").readlines()
+line = b[-2].split()
